@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+gdown
+
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+gdown
+>>>>>>> 6c7c001 (Add Streamlit app, model, and requirements)
