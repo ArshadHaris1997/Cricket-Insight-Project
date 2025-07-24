@@ -6,3 +6,4 @@ gdown
 joblib
 xgboost
 matplotlib
+seaborn
